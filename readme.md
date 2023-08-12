@@ -24,11 +24,11 @@ Just a calculator. <br/> </p>
 </p>
 
 <p align="center">
-  <img alt="number" src="/src/assets/numbers.png" width="100%">
+  <img alt="number" src="/src/assets/number.png" width="100%">
 </p>
 
 
-## 🚀 Tecnologias
+## 🚀 Techs / Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 💻 Project / Projeto
 
 Uma calculadora simples que faz o que deve: soma, divisão, multiplicação e subtração.
 
